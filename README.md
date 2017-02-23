@@ -6,10 +6,10 @@ Simple tool  to generate CSRF Proof of Concept Code
 Java Development Kit JDK  [Tested on jdk1.8.0] 
 
 ##How To 
-  ### Widows 
+### Widows
     Execute csrf-form-generator.jar
 
-  ### Linux
+### Linux
     Run on Terminal _java -jar csrf-form-generator.jar_
 
 
