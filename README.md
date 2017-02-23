@@ -24,4 +24,4 @@ Java Development Kit JDK  [Tested on jdk1.8.0]
 Check [Video] (https://youtu.be/MGwxu3zLl7k)
 
 
-Anyone who want to contribute, Contact toeKhaing@cyberwings.asia
+Is there any bugs or anything you want to say, Contact toeKhaing@cyberwings.asia
