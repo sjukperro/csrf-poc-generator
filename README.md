@@ -1,16 +1,16 @@
-# csrf-poc-generator
+##CSRF POC Generator
 Simple tool  to generate CSRF Proof of Concept Code
 
 
-# Requirements
+##Requirements
 Java Development Kit JDK  [Tested on jdk1.8.0] 
 
-# How To 
-## Widows 
-Execute csrf-form-generator.jar
+##How To 
+  ### Widows 
+    Execute csrf-form-generator.jar
 
-## Linux
-_java -jar csrf-form-generator.jar_
+  ### Linux
+    Run on Terminal _java -jar csrf-form-generator.jar_
 
 
 
