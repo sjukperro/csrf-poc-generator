@@ -10,7 +10,8 @@ Java Development Kit JDK  [Tested on jdk1.8.0]
     Execute csrf-form-generator.jar
 
 ### Linux
-    Run on Terminal _java -jar csrf-form-generator.jar_
+    Run on Terminal 
+   _java -jar csrf-form-generator.jar_
 
 
 
