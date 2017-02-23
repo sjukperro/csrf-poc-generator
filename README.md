@@ -21,7 +21,7 @@ Java Development Kit JDK  [Tested on jdk1.8.0]
 ![Second](https://s22.postimg.org/d6prehzc1/image.png)
 
 
-[Video] (https://youtu.be/MGwxu3zLl7k)
+Check [Video] (https://youtu.be/MGwxu3zLl7k)
 
 
 Anyone who want to contribute, Contact toeKhaing@cyberwings.asia
