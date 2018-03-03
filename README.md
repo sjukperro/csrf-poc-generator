@@ -1,8 +1,8 @@
-##CSRF POC Generator
+## CSRF POC Generator
 Simple tool  to generate CSRF Proof of Concept Code
 
 
-##Requirements
+## Requirements
 Java Development Kit JDK  [Tested on jdk1.8.0] 
 
 ##How To 
